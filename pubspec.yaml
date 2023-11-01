@@ -1,7 +1,7 @@
 name: http2
 description: A new Flutter package project.
 version: 0.0.1
-homepage:
+homepage: lo-dfs.dev
 
 environment:
   sdk: '>=3.1.2 <4.0.0'
